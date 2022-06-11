@@ -1,0 +1,16 @@
+segment_sources:
+  IAC5E3DED:
+    type: origin_type
+    relation: translation
+    language: en
+  I5AF53029:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  9c3079d96f9f4a08a82248470538604b:
+    IAC5E3DED: 6d24756424c64ba78f3f0bdcbd8e569c
+    I5AF53029: fbf92069421c4f46be7d2c5313bdaeb1
+  d2281188cb5c46a4b1058c8757deae38:
+    IAC5E3DED: 053acb46dd434e5abfac6826a8260086
+    I5AF53029: c1317db716f14fcebb53d40894ff2bd3
